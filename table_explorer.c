@@ -13,6 +13,8 @@
 #include <malloc.h>
 #define x 3940
 typedef struct table{
+	// change these member below according to your table column name 
+	// vvvvv
 	char loc[100];
 	char city[100];
 	long rprice;
@@ -462,4 +464,5 @@ int main()
 	
 	return 0;
 	}
+
 
