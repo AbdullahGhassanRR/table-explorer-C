@@ -12,4 +12,4 @@ here is the brief explanation for each function on this code:
 6. exportData() = function to export a file
 7. printData() = function to print raw data or sorted data
 
-If you are a developer, data analytics-person, or any role that handles tabular (or structured, table) data, you could change name of the column (also called attribute or features) on typedef struct table.
+If you are a developer, data analytics-person, or any role that handles tabular (or structured, table) data, you could change name of the column (also called attribute or features) on typedef struct table member. Since you are working on C, remember to set the length of each value for each row on the typedef struct table member.
